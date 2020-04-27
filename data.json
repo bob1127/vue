@@ -1,0 +1,46 @@
+{
+  "products": [
+    {   
+      "title": "新鮮藍莓",
+      "imgURL": "https://images.pexels.com/photos/70862/pexels-photo-70862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "藍莓原產於北美洲與東亞，是地球上最古老的植物之一，分佈於北美、南美、亞洲與歐洲。早在數百年前，美國當地土著印第安人已在食用藍莓",
+      "price": 250
+    },
+    {
+      "title": "新鮮葡萄",
+      "imgURL": "https://images.pexels.com/photos/59680/pexels-photo-59680.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "葡萄色鮮、氣香、味美，與蘋果、柑桔和香蕉並稱為世界四大水果，是全世界栽培面積最廣的水果，也是最古老的水果之一",
+      "price": 90
+    },
+    {
+      "title": "新鮮草莓",
+      "imgURL": "https://images.pexels.com/photos/1231023/pexels-photo-1231023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "草莓擁有豐富的維生素C，每100公克有60毫克，是蘋果的7-10倍；果肉內富含果膠和膳食纖維，可以幫助消化",
+      "price": 125
+    },
+    {
+      "title": "現摘紅菜頭",
+      "imgURL": "https://images.pexels.com/photos/9301/healthy-vegetables-restaurant-nature.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "，通常在北美被稱為甜菜的主根部分，也被稱為甜菜，甜菜園，紅甜菜，甜菜晚餐或金色的甜菜。它是幾種以食用甜菜根和葉子為食的栽培甜菜品種之一",
+      "price": 125
+    },
+    {
+      "title": "現摘紅蘿蔔",
+      "imgURL": "https://images.pexels.com/photos/1306559/pexels-photo-1306559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "胡蘿蔔，又稱紅蘿蔔、番蘿蔔、丁香蘿蔔、胡蘆菔金、赤珊瑚、黃根、甘筍、金筍、紅菜頭等，是繖形科胡蘿蔔屬二年生植物，以呈肉質的根作蔬果食用。 ",
+      "price": 185
+    },
+    {
+      "title": "現摘南瓜",
+      "imgURL": "https://images.pexels.com/photos/1395004/pexels-photo-1395004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "南瓜屬根莖澱粉類食物，卻不像地瓜、馬鈴薯、山藥在土底下生長，而是和西瓜一樣，「躺」在土地上長大的。一般生態自然農法種植南瓜非常珍貴",
+      "price": 240
+    },
+    {
+      "title": "現摘青椒",
+      "imgURL": "https://images.pexels.com/photos/87626/paprika-vegetables-green-food-87626.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "青椒為植物界，雙子葉植物綱，菊亞綱，茄科。果實為漿果。別名很多，大椒、燈籠椒、柿子椒、都是它的名字，因能結甜味漿果，又叫甜椒、菜椒。",
+      "price": 300
+    }
+  ]
+}
